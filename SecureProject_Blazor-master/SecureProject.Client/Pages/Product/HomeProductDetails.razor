@@ -1,0 +1,79 @@
+﻿@page "/product-details/{ProductId:int}"
+
+
+@using System.Text.RegularExpressions
+@using System.ComponentModel.DataAnnotations
+
+<div class="row mb-2">
+    <div class="h3 col-md-11">Product <Badge Color="BadgeColor.Primary" Class="badge bg-dark rounded-pill p-2 px-3" IndicatorType="BadgeIndicatorType.RoundedPill">Details</Badge></div>
+    <a href="/" class="btn btn-outline-dark col-md-1 mt-2"><i class="fa-solid fa-backward"></i> &nbsp; Back</a>
+</div>
+
+@if (isPageLoading)
+{
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Primary" Width="100" />
+    </Progress>
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Success" Width="100" />
+    </Progress>
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Warning" Width="100" />
+    </Progress>
+}
+else
+{
+    <MudGrid>
+        <MudItem xs="12" sm="7">
+            <MudPaper Class="pa-4">
+                <EditForm Model="product">
+
+                    <div class="row pb-2">
+                        @if (product.VendorLogo != null)
+                        {
+                            <div class="col-md-3">
+                                <img src="@($"data:image/png;base64,{Convert.ToBase64String(product.VendorLogo)}")" alt="Vendor Logo" style="max-width:150px;" />
+                            </div>
+                            <div class="col-md-9">
+                                <div class="row">
+                                    <MudTextField T="string" Variant="Variant.Outlined" Label="Name" Required="true" @bind-Value="product.Name" RequiredError="Product name is required!" Disabled />
+                                </div>
+                                <div class="row">
+                                    <MudTextField Variant="Variant.Outlined" Label="Price" Adornment="Adornment.Start" Required="true" @bind-Value="product.Price" AdornmentIcon="@Icons.Material.Filled.AttachMoney" Disabled />
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                   
+                    <div class="row">
+                        <MudTextField T="string" Variant="Variant.Outlined" Label="Description" Lines="3" Required="true" @bind-Value="product.Description" ariant="Variant.Outlined" Clearable="true" RequiredError="Description is required!" Disabled />
+                    </div>
+                    <div class="row">
+                        <MudTextField T="string" Variant="Variant.Outlined" Label="Vendor Name" @bind-Value="product.VendorName" RequiredError="Vendor name is required!" Disabled />
+                    </div>
+                 
+
+                </EditForm>
+
+            </MudPaper>
+
+        </MudItem>
+        <MudItem xs="12" sm="5">
+            <MudPaper Class="pa-4 mud-height-full">
+                @if (product.Id != 0)
+                {
+                    <MudField Label="Product Features" Variant="Variant.Filled" InnerPadding="true">
+
+                        <ul class="row">
+                            @foreach (var item in product.ProductFeatures.OrderBy(o=>o.OrderBy))
+                            {
+                                <li><strong>@item.Name : </strong> @item.Value </li>
+                            }
+                        </ul>
+                    </MudField>
+                }
+            </MudPaper>
+        </MudItem>
+    </MudGrid>
+}

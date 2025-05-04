@@ -1,0 +1,39 @@
+﻿@page "/"
+<PageTitle>Home</PageTitle>
+
+<h1>Dashboard</h1>
+
+@if (products == null)
+{
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Primary" Width="100" />
+    </Progress>
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Success" Width="100" />
+    </Progress>
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Warning" Width="100" />
+    </Progress>
+}
+else
+{
+    <div class="row">
+        @foreach (var item in products)
+        {
+            <div class="col-md-3">
+            <Card Class="mb-4 " Style="width:18rem;">
+                @if (item.VendorLogo != null)
+                {
+                    <img class="rounded-top col-md-12" src="@($"data:image/png;base64,{Convert.ToBase64String(item.VendorLogo)}")" alt="Vendor Logo" />
+                }
+                <CardBody>
+                    <CardTitle>@item.Name</CardTitle>
+                    <CardSubTitle Class="mb-2 text-muted">$ @item.Price.ToString("n2")</CardSubTitle>
+                    <CardText>@item.Description</CardText>
+                    <a href="product-details/@item.Id" class="btn btn-secondary btn-sm">View</a>
+                </CardBody>
+            </Card>
+            </div>
+        }
+    </div>
+}

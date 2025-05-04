@@ -1,0 +1,66 @@
+﻿@page "/products"
+@inject HttpClient Http
+@inject NavigationManager Navigation
+
+<div class="row mb-2">
+    <div class="h3 col-md-10">Product <Badge Color="BadgeColor.Primary" Class="badge bg-dark rounded-pill p-2 px-3" IndicatorType="BadgeIndicatorType.RoundedPill">List</Badge></div>
+    <button @onclick="AddProduct" class="btn btn-outline-dark col-md-2" style="float:right;">Add Product</button>
+</div>
+
+@if (isLoading)
+{
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Primary" Width="100" />
+    </Progress>
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Success" Width="100" />
+    </Progress>
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Warning" Width="100" />
+    </Progress>
+}
+else
+{
+    <MudTable Items="@products.Take(4)" Hover="true" Breakpoint="Breakpoint.Sm" Loading="@isLoading" LoadingProgressColor="Color.Info">
+        <HeaderContent>
+            <MudTh></MudTh>
+            <MudTh>Name</MudTh>
+            <MudTh>Price</MudTh>
+            <MudTh>Description</MudTh>
+            <MudTh>Features</MudTh>
+            <MudTh Class="col-2"></MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="">
+                @if (context.VendorLogo != null)
+                {
+                    <img src="@($"data:image/png;base64,{Convert.ToBase64String(context.VendorLogo)}")" alt="Vendor Logo" style="max-width:80px;" />
+                }
+            </MudTd>
+            <MudTd DataLabel="Name">
+                @context.Name
+            </MudTd>
+            <MudTd DataLabel="Description"><span>$ </span>@context.Price.ToString("n2")</MudTd>
+            <MudTd DataLabel="Description">@context.Description</MudTd>
+            <MudTd DataLabel="ProductFeatures">
+                @if (context.ProductFeatures != null)
+                {
+                    <ul class="row">
+                        @foreach (var item in context.ProductFeatures.OrderBy(o => o.OrderBy))
+                        {
+                            <li>@item.Name <span>-</span> @item.Value </li>
+                        }
+                    </ul>
+                }
+            </MudTd>
+            <MudTd DataLabel="Sign">
+                <a class="btn btn-sm btn-dark" href="/products/details/@context.Id"><i class="fa-solid fa-binoculars"></i></a>
+                <button class="btn btn-sm btn-warning" @onclick="() => EditProduct(context.Id)"><i class="fa-solid fa-pen-to-square"></i></button>
+                <button class="btn btn-sm btn-danger" @onclick="() => DeleteProduct(context.Id)"><i class="fa-solid fa-trash-can"></i></button>
+            </MudTd>
+        </RowTemplate>
+        <PagerContent>
+            <MudTablePager />
+        </PagerContent>
+    </MudTable>
+}

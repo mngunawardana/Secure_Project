@@ -1,0 +1,67 @@
+﻿@inherits LayoutComponentBase
+
+<MudLayout Theme="@MyTheme">
+    <MudDialogProvider />
+    <MudSnackbarProvider />
+    <MudPopoverProvider />
+
+    <div class="page">
+        <div class="sidebar">
+            <NavMenu />
+        </div>
+
+        <main>
+            <div class="top-row px-4">
+                @if (user != null && user.Identity?.IsAuthenticated == true)
+                {
+                    <div>
+                        <span>Hello, @userName!</span>
+                        <button class="btn btn-link" @onclick="Logout">Logout</button>
+                    </div>
+                }
+            </div>
+
+            <article class="content px-4">
+                @Body
+            </article>
+        </main>
+    </div>
+</MudLayout>
+
+@code {
+    private MudTheme MyTheme = new MudTheme
+        {
+            PaletteLight = new PaletteLight
+            {
+                Primary = Colors.Blue.Default,
+                Secondary = Colors.Orange.Default,
+                AppbarBackground = Colors.Blue.Darken3,
+                AppbarText = Colors.Shades.White,
+                Background = Colors.Gray.Lighten5,
+                Surface = Colors.Shades.White,
+                DrawerBackground = Colors.Gray.Lighten4,
+                DrawerText = Colors.Shades.Black,
+                DrawerIcon = Colors.Shades.Black,
+                Success = Colors.Green.Accent4,
+                Warning = Colors.Orange.Accent3,
+                Error = Colors.Red.Accent2,
+                Info = Colors.LightBlue.Default
+            },
+            PaletteDark = new PaletteDark
+            {
+                Primary = Colors.LightBlue.Lighten1,
+                Secondary = Colors.Amber.Accent2,
+                Background = Colors.Gray.Darken4,
+                Surface = Colors.Gray.Darken3,
+                AppbarBackground = Colors.Gray.Darken4,
+                AppbarText = Colors.Shades.White,
+                DrawerBackground = Colors.Gray.Darken3,
+                DrawerText = Colors.Shades.White,
+                DrawerIcon = Colors.Shades.White,
+                Success = Colors.Green.Accent2,
+                Warning = Colors.Orange.Accent2,
+                Error = Colors.Red.Accent2,
+                Info = Colors.Cyan.Accent2
+            }
+        };
+}

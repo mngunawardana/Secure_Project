@@ -1,0 +1,71 @@
+﻿@page "/register"
+@using SecureProject.Shared.DTO
+@inject HttpClient Http
+@inject NavigationManager Navigation
+@layout LoginLayout;
+
+<h3>Register</h3>
+
+@if (!string.IsNullOrEmpty(Message))
+{
+    <div class="alert alert-danger">@Message</div>
+}
+
+
+<div class="card shadow-lg border-0 rounded-lg mt-3">
+    <div class="card-header">
+        <h3 class="text-center font-weight-light my-4">Login</h3>
+    </div>
+    <div class="card-body">
+        <StatusMessage Message="@Message" />
+        <EditForm Model="RegisterModel" method="post" OnValidSubmit="HandleRegister">
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" role="alert" />
+            <div class="mb-3">
+                <label>Email</label>
+                <InputText class="form-control" @bind-Value="RegisterModel.Email" />
+                <ValidationMessage For="@(() => RegisterModel.Email)" />
+            </div>
+            <div class="mb-3">
+                <label>Password</label>
+                <InputText type="password" class="form-control" @bind-Value="RegisterModel.Password" />
+                <ValidationMessage For="@(() => RegisterModel.Password)" />
+            </div>
+            <div class="mb-3">
+                <label>Confirm Password</label>
+                <InputText type="password" class="form-control" @bind-Value="RegisterModel.ConfirmPassword" />
+                <ValidationMessage For="@(() => RegisterModel.ConfirmPassword)" />
+            </div>
+            <button type="submit" class="btn btn-success">Register</button>
+        </EditForm>
+    </div>
+    <div class="card-footer text-center py-3">
+        <div class="small">
+            <a href="/login">Already have an account? Login!</a>
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    private RegisterDTO RegisterModel = new();
+    private string Message = "";
+
+    private async Task HandleRegister()
+    {
+        var response = await Http.PostAsJsonAsync("api/auth/register", RegisterModel);
+
+        if (response.IsSuccessStatusCode)
+        {
+            Message = "Registration successful!";
+            Navigation.NavigateTo("/login");
+        }
+        else
+        {
+            Message = "Registration failed. Try again.";
+        }
+    }
+
+  
+}

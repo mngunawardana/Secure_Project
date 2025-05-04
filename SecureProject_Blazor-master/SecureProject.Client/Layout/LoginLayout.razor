@@ -1,0 +1,67 @@
+﻿@inherits LayoutComponentBase
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #layoutAuthentication {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    #layoutAuthentication_footer {
+        margin-top: auto;
+    }
+
+</style>
+<div id="layoutAuthentication">
+
+    <div class="page">
+
+        <main>
+
+            <div class="login-layout bg-gray-100 min-h-screen flex items-center justify-center bg-dark">
+                <article class="content px-4">
+                    <div id="layoutAuthentication">
+                        <div id="layoutAuthentication_content">
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <div class="col-lg-5">
+                                        <div class="text-center my-4 ">
+                                            <img src="/img/secure-project.svg" alt="Logo" class="img-fluid" style="max-width: 80%;" />
+                                        </div>
+                                        @Body
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </main>
+    </div>
+    <div id="layoutAuthentication_footer">
+        <footer class="py-4 bg-light mt-auto">
+            <div class="container-fluid px-4">
+                <div class="d-flex align-items-center justify-content-between small">
+                    <div class="text-muted">Copyright &copy; Secure Project 2025</div>
+                    <div>
+                        <a href="#">Privacy Policy</a>
+                        &middot;
+                        <a href="#">Terms &amp; Conditions</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+</div>

@@ -1,0 +1,135 @@
+﻿@page "/products/new"
+@page "/products/edit/{ProductId:int}"
+
+
+@using System.Text.RegularExpressions
+@using System.ComponentModel.DataAnnotations
+
+<div class="row mb-2">
+    <div class="h3 col-md-11">Product <Badge Color="BadgeColor.Primary" Class="badge bg-dark rounded-pill p-2 px-3" IndicatorType="BadgeIndicatorType.RoundedPill">@(IsEdit ? "Edit" : "New")</Badge></div>
+    <a href="/products" class="btn btn-outline-dark col-md-1 mt-2"><i class="fa-solid fa-backward"></i> &nbsp; Back</a>
+
+</div>
+@if (isPageLoading)
+{
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Primary" Width="100" />
+    </Progress>
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Success" Width="100" />
+    </Progress>
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Warning" Width="100" />
+    </Progress>
+}
+else
+{
+    <MudGrid>
+        <MudItem xs="12" sm="7">
+            <MudPaper Class="pa-4">
+                <EditForm Model="product" OnValidSubmit="HandleValidSubmit">
+                    <DataAnnotationsValidator />
+                    <ValidationSummary />
+
+                    <div class="row pb-2">
+                        @if (product.VendorLogo != null)
+                        {
+                            <div class="col-md-4">
+                                <img src="@($"data:image/png;base64,{Convert.ToBase64String(product.VendorLogo)}")" alt="Vendor Logo" style="max-width:150px;" />
+                            </div>
+                        }
+                        <div class="col-md-8">
+                            <InputFile OnChange="HandleLogoUpload" class="form-control" />
+                            @*   <MudFileUpload T="IBrowserFile" OnFilesChanged="HandleLogoUpload" Accept=".png, .jpg">
+                            <ActivatorContent>
+                                <MudButton Variant="Variant.Filled"
+                                           Color="Color.Primary">
+                                    Upload Logo
+                                </MudButton>
+                            </ActivatorContent>
+                            <SelectedTemplate Context="fileContext">
+                                @if (fileContext != null)
+                                {
+                                    <MudText>@fileContext.Name</MudText>
+                                }
+
+                            </SelectedTemplate>
+                        </MudFileUpload> *@
+                        </div>
+                    </div>
+                    <div class="row">
+                        <MudTextField T="string" Variant="Variant.Outlined" Label="Name" Required="true" @bind-Value="product.Name" RequiredError="Product name is required!" />
+                    </div>
+                    <div class="row">
+                        <MudTextField T="string" Variant="Variant.Outlined" Label="Description" Lines="3" Required="true" @bind-Value="product.Description" ariant="Variant.Outlined" Clearable="true" RequiredError="Description is required!" />
+                    </div>
+                    <div class="row">
+                        <MudTextField T="string" Variant="Variant.Outlined" Label="Vendor Name" @bind-Value="product.VendorName" RequiredError="Vendor name is required!" />
+                    </div>
+                    <div class="row">
+                        <MudTextField Variant="Variant.Outlined" Label="Price" Adornment="Adornment.Start" Required="true" @bind-Value="product.Price" AdornmentIcon="@Icons.Material.Filled.AttachMoney" />
+                    </div>
+                    <div class="row">
+                        <button type="submit" class="btn btn-primary col-md-2">Save</button>
+                        <button type="button" class="btn btn-secondary col-md-2 ms-2" @onclick="Cancel">Cancel</button>
+                    </div>
+                </EditForm>
+
+            </MudPaper>
+
+        </MudItem>
+        <MudItem xs="12" sm="5">
+            <MudPaper Class="pa-4 mud-height-full">
+                @if (product.Id != 0)
+                {
+                    <MudField Label="Product Features" Variant="Variant.Filled" InnerPadding="true">
+                        @if (!showAddFeature)
+                        {
+                            <div class="row " style="margin-top: -22px;padding-right: 5px;">
+                                <div class="offset-md-8 col-md-4" style="float:right;">
+                                    <button type="button" class="btn btn-sm btn-outline-dark mb-3" style="width: 100%;" @onclick="AddFeature">
+                                        Add Feature
+                                    </button>
+                                </div>
+                            </div>
+                        }
+                        else
+                        {
+                            <EditForm Model="feature" OnValidSubmit="FetureValidSubmit" class="p-3">
+                                <DataAnnotationsValidator />
+                                <ValidationSummary />
+                                <div class="row">
+                                    <MudTextField T="string" Variant="Variant.Outlined" Label="Feature" Required="true" @bind-Value="feature.Name" RequiredError="Feature name is required!" />
+                                </div>
+                                <div class="row">
+                                    <MudTextField T="string" Variant="Variant.Outlined" Label="Description" Lines="3" Required="true" @bind-Value="feature.Value" ariant="Variant.Outlined" Clearable="true" RequiredError="Description is required!" />
+                                </div>
+                                <div class="row">
+                                    <MudTextField Label="Order" Variant="Variant.Outlined" @bind-Value="feature.OrderBy" Adornment="Adornment.End" />
+                                </div>
+                                <div class="row">
+                                    @if (feature.Id == 0)
+                                    {
+                                        <button type="submit" class="btn btn-primary col-md-2">Add</button>
+                                    }
+                                    else
+                                    {
+                                        <button type="submit" class="btn btn-primary col-md-2">Update</button>
+                                    }
+                                    <button @onclick="(()=>showAddFeature=!showAddFeature)" class="ms-1 btn btn-secondary col-md-2">Cancel</button>
+
+                                </div>
+                            </EditForm>
+                        }
+                        <ul class="row">
+                            @foreach (var item in product.ProductFeatures.OrderBy(o => o.OrderBy))
+                            {
+                                <li><strong>@item.Name : </strong> @item.Value <Button Class="btn btn-sm btn-outline-dark" @onclick="()=>EditFeature(item)"><i class="fa-solid fa-file-pen"></i></Button> <Button Class=" btn btn-sm btn-outline-danger" @onclick="()=>DeleteFeature(item)"><i class="fa-solid fa-trash"></i></Button></li>
+                            }
+                        </ul>
+                    </MudField>
+                }
+            </MudPaper>
+        </MudItem>
+    </MudGrid>
+}
