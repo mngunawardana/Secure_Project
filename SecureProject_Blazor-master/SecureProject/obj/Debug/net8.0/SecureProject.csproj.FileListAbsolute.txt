@@ -1,0 +1,390 @@
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.Client.staticwebassets.runtime.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.Client.staticwebassets.endpoints.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\appsettings.Development.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\appsettings.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.staticwebassets.runtime.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.staticwebassets.endpoints.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.exe
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.deps.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.runtimeconfig.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.pdb
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Azure.Core.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Azure.Identity.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\BlazorBootstrap.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Blazored.LocalStorage.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Humanizer.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\MudBlazor.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.ClientModel.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.CodeDom.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Memory.Data.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.Client.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.Shared.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.Client.pdb
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\bin\Debug\net8.0\SecureProject.Shared.pdb
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.csproj.AssemblyReference.cache
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.AssemblyInfoInputs.cache
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.AssemblyInfo.cs
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.csproj.CoreCompileInputs.cache
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.MvcApplicationPartsAssemblyInfo.cs
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.MvcApplicationPartsAssemblyInfo.cache
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.sourcelink.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\scopedcss\bundle\SecureProject.styles.css
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\staticwebassets\msbuild.SecureProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\staticwebassets\msbuild.SecureProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\staticwebassets\msbuild.build.SecureProject.props
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SecureProject.props
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SecureProject.props
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecurePr.79359CE0.Up2Date
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\refint\SecureProject.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.pdb
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.genruntimeconfig.cache
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\ref\SecureProject.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\appsettings.Development.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Client.staticwebassets.runtime.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Client.staticwebassets.endpoints.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\appsettings.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.staticwebassets.runtime.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.staticwebassets.endpoints.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.exe
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.deps.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.runtimeconfig.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.pdb
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Azure.Core.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Azure.Identity.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorBootstrap.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Blazored.LocalStorage.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Humanizer.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\MudBlazor.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.ClientModel.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.CodeDom.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Memory.Data.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Client.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Shared.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Client.pdb
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Shared.pdb
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.csproj.AssemblyReference.cache
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.AssemblyInfoInputs.cache
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.AssemblyInfo.cs
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.csproj.CoreCompileInputs.cache
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.MvcApplicationPartsAssemblyInfo.cs
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.MvcApplicationPartsAssemblyInfo.cache
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.sourcelink.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\scopedcss\bundle\SecureProject.styles.css
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\staticwebassets\msbuild.SecureProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\staticwebassets\msbuild.SecureProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\staticwebassets\msbuild.build.SecureProject.props
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SecureProject.props
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SecureProject.props
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecurePr.79359CE0.Up2Date
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\refint\SecureProject.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.pdb
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\SecureProject.genruntimeconfig.cache
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\obj\Debug\net8.0\ref\SecureProject.dll

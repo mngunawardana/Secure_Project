@@ -1,0 +1,26 @@
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\bin\Debug\net8.0\SecureProject.Shared.deps.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\bin\Debug\net8.0\SecureProject.Shared.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\bin\Debug\net8.0\SecureProject.Shared.pdb
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.csproj.AssemblyReference.cache
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.AssemblyInfoInputs.cache
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.AssemblyInfo.cs
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.csproj.CoreCompileInputs.cache
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.sourcelink.json
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\obj\Debug\net8.0\refint\SecureProject.Shared.dll
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.pdb
+D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject.Shared\obj\Debug\net8.0\ref\SecureProject.Shared.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\bin\Debug\net8.0\SecureProject.Shared.deps.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\bin\Debug\net8.0\SecureProject.Shared.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\bin\Debug\net8.0\SecureProject.Shared.pdb
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.csproj.AssemblyReference.cache
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.AssemblyInfoInputs.cache
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.AssemblyInfo.cs
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.csproj.CoreCompileInputs.cache
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.sourcelink.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\obj\Debug\net8.0\refint\SecureProject.Shared.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\obj\Debug\net8.0\SecureProject.Shared.pdb
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Shared\obj\Debug\net8.0\ref\SecureProject.Shared.dll

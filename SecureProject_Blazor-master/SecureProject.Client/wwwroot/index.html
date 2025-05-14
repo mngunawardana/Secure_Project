@@ -33,6 +33,19 @@
   <script src="_framework/blazor.webassembly.js"></script>
   <script src="_content/MudBlazor/MudBlazor.min.js"></script>
   <script src="_content/Blazor.Bootstrap/blazor.bootstrap.js"></script>
+  <script>
+    window.printDiv = (divId) => {
+      const div = document.getElementById(divId);
+      if (!div) return;
+
+      const printWindow = window.open('', '_blank');
+      printWindow.document.write("<html> <head><title>Print</title> <style> body { font-family: Arial, sans-serif; margin: 20px; }table { border-collapse: collapse; width: 100%; } th, td { border: 1px solid #ddd; padding: 8px; text-align: left; } th { background-color: #f2f2f2; }  </style> </head> <body> ${div.innerHTML}  </body> </html>  ");
+      printWindow.document.close();
+      printWindow.focus();
+      printWindow.print();
+      printWindow.close();
+    }
+  </script>
 </body>
 
 </html>

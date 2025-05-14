@@ -1,4 +1,6 @@
-﻿namespace SecureProject.Shared
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace SecureProject.Shared
 {
     public class Product
     {
@@ -8,6 +10,8 @@
         public Decimal Price { get; set; }
         public string VendorName { get; set; } = string.Empty;
         public byte[]? VendorLogo { get; set; }
+        [NotMapped]
+        public bool IsSelected { get; set; }
         public List<ProductFeature> ProductFeatures { get; set; } = new();
     }
 }

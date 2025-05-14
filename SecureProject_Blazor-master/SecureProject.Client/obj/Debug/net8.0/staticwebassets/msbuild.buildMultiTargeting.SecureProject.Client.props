@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SecureProject.Client.props" />
+</Project>

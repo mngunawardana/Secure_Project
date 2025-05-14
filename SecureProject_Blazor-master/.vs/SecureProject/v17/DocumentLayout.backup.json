@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|solutionrelative:secureproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureProject\\appsettings.json",
+              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\appsettings.json",
+              "RelativeToolTip": "SecureProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T14:39:11.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
