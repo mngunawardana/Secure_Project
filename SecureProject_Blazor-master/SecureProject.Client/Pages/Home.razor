@@ -2,9 +2,16 @@
 
 <PageTitle>Home</PageTitle>
 
-<h1>Dashboard</h1>
+<h1>
+    Dashboard
+    @if (products != null && !isLoading)
+    {
+        <Button Style="float:right;" Color="ButtonColor.Dark" @onclick="() => OnShowModalClick()">Recommend a Product</Button>
+    }
+</h1>
 
-@if (products == null)
+
+@if (products == null || isLoading)
 {
     <Progress Class="mb-3">
         <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Primary" Width="100" />
@@ -91,7 +98,7 @@ else
                             }
                         </tbody>
                     </table>
-                    <button class="btn btn-lg btn-dark" @onclick="() => PrintDivAsync()"><i class="fa-solid fa-print"></i> Print</button>
+                    <button class="btn btn-lg btn-dark" @onclick="() => PrintComparisionDivAsync()"><i class="fa-solid fa-print"></i> Print</button>
                 </CardBody>
             </Card>
         </div>
@@ -100,7 +107,7 @@ else
         @foreach (var item in products)
         {
             <div class="col-md-3">
-                <Card Class="mb-4 " Style="width:18rem;">
+                <Card Class="mb-4">
                     @if (item.VendorLogo != null)
                     {
                         <img class="rounded-top col-md-12" src="@($"data:image/png;base64,{Convert.ToBase64String(item.VendorLogo)}")" alt="Vendor Logo" />
@@ -109,7 +116,7 @@ else
                         <CardTitle>@item.Name</CardTitle>
                         <CardSubTitle Class="mb-2 text-muted">$ @item.Price.ToString("n2")</CardSubTitle>
                         <CardText>@item.Description</CardText>
-                        <a href="product-details/@item.Id" class="btn btn-secondary btn-sm"><i class="fa-solid fa-binoculars"></i> View</a>
+                        <a target="_blank" href="product-details/@item.Id" class="btn btn-secondary btn-sm"><i class="fa-solid fa-binoculars"></i> View</a>
                         @if (!item.IsSelected)
                         {
                             <a @onclick="()=>SelectItem(item)" class="ms-1 btn btn-success text-white btn-sm"><i class="fa-solid fa-circle-check"></i> Select</a>
@@ -124,6 +131,75 @@ else
         }
     </div>
 }
+
+<Modal @ref="modal" Title="Product Recommendation" Size="ModalSize.ExtraLarge">
+    <BodyTemplate>
+        <div class="row px-4" id="divRecomondation">
+            <div class="col-md-12">
+                <h6>Client Requirement</h6>
+            </div>
+            <div class="row">
+                <MudTextField T="string" Variant="Variant.Outlined" Label="Enter client requirement" Lines="3" Required="true" @bind-Value="userRequest" ariant="Variant.Outlined" Clearable="true" />
+            </div>
+            <div class="row">
+                <button class="btn btn-dark col-md-3 mb-4" @onclick="() => GetRecomondation()"><i class="fa-brands fa-searchengin"></i> Seek Recommendation</button>
+                <br />
+            </div>
+
+            <br />
+            <hr />
+
+            @if (products == null || isLoading)
+            {
+                <br />
+                <Progress Class="mb-3">
+                    <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Primary" Width="100" />
+                </Progress>
+            }
+            else
+            {
+                @if (recommendations != null && !string.IsNullOrEmpty(recommendations.RecommendedReply))
+                {
+                    <br />
+                    <p>@recommendations.RecommendedReply</p>
+                    @if (recommendations != null)
+                    {
+                        <div class="row">
+                            @foreach (var item in recommendations.RecommendedProducts)
+                            {
+                                <div class="col-md-3">
+                                    <Card Class="mb-4 ">
+                                        @if (item.VendorLogo != null)
+                                        {
+                                            <img class="rounded-top col-md-12" src="@($"data:image/png;base64,{Convert.ToBase64String(item.VendorLogo)}")" alt="Vendor Logo" />
+                                        }
+                                        <CardBody>
+                                            <CardTitle>[<span>ID: @item.Id</span>] @item.Name</CardTitle>
+                                            <CardSubTitle Class="mb-2 text-muted">$ @item.Price.ToString("n2")</CardSubTitle>
+                                            <CardText>@item.Description</CardText>
+                                            <a target="_blank" href="product-details/@item.Id" class="btn btn-secondary btn-sm"><i class="fa-solid fa-binoculars"></i> View</a>
+                                        </CardBody>
+                                    </Card>
+                                </div>
+                            }
+                        </div>
+                    }
+                    else
+                    {
+                        <p>No recommendations available.</p>
+                    }
+                }
+            }
+        </div>
+    </BodyTemplate>
+    <FooterTemplate>
+        @if (recommendations != null && !string.IsNullOrEmpty(recommendations.RecommendedReply))
+        {
+            <Button Color="ButtonColor.Primary" @onclick="() => PrintRecomondationDivAsync()"><i class="fa-solid fa-print"></i> Print</Button>
+        }
+        <Button Color="ButtonColor.Secondary" @onclick="OnHideModalClick">Close</Button>
+    </FooterTemplate>
+</Modal>
 
 <script>
     window.printDiv = (divId) => {

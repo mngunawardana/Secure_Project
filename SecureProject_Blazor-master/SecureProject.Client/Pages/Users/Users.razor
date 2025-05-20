@@ -1,0 +1,54 @@
+﻿@page "/user"
+@inject HttpClient Http
+@inject NavigationManager Navigation
+
+<div class="row mb-2">
+    <div class="h3 col-md-10">User <Badge Color="BadgeColor.Primary" Class="badge bg-dark rounded-pill p-2 px-3" IndicatorType="BadgeIndicatorType.RoundedPill">List</Badge></div>
+</div>
+
+@if (isLoading)
+{
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Primary" Width="100" />
+    </Progress>
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Success" Width="100" />
+    </Progress>
+    <Progress Class="mb-3">
+        <ProgressBar Type="ProgressType.StripedAndAnimated" Color="ProgressColor.Warning" Width="100" />
+    </Progress>
+}
+else
+{
+    <MudTable Items="@users.Take(4)" Hover="true" Breakpoint="Breakpoint.Sm" Loading="@isLoading" LoadingProgressColor="Color.Info">
+        <HeaderContent>
+            <MudTh>Name</MudTh>
+            <MudTh>User Name</MudTh>
+            <MudTh>Phone Number</MudTh>
+            <MudTh Class="col-2"></MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Description">@context.FirstName @context.LastName</MudTd>
+            <MudTd DataLabel="User Name">
+                @context.UserName
+            </MudTd>
+            <MudTd DataLabel="Phone Number">
+                @context.PhoneNumber
+            </MudTd>
+            <MudTd >
+                @if (context.IsAdmin)
+                {
+                    <button class="btn btn-sm btn-danger" @onclick="() => RevokeAdmin(context.Id)">Revoke Admin Access</button>
+                }
+                else
+                {
+                    <button class="btn btn-sm btn-success" @onclick="() => GrantAdmin(context.Id)">Make as a Admin</button>
+
+                }
+            </MudTd>
+        </RowTemplate>
+        <PagerContent>
+            <MudTablePager />
+        </PagerContent>
+    </MudTable>
+}

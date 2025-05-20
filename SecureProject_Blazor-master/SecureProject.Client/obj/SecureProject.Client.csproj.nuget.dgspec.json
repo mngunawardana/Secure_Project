@@ -62,6 +62,18 @@
               "target": "Package",
               "version": "[4.5.0, )"
             },
+            "Google.Apis": {
+              "target": "Package",
+              "version": "[1.69.0, )"
+            },
+            "Google.Cloud.AIPlatform.V1": {
+              "target": "Package",
+              "version": "[3.29.0, )"
+            },
+            "Google_GenerativeAI": {
+              "target": "Package",
+              "version": "[2.5.10, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[8.0.14, )"

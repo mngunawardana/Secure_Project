@@ -27,7 +27,7 @@ namespace SecureProject.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegisterDTO model)
         {
-            var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
+            var user = new ApplicationUser { UserName = model.Email, Email = model.Email, FirstName = model.FirstName, LastName = model.LastName, PhoneNumber = model.PhoneNumber };
             var result = await _userManager.CreateAsync(user, model.Password);
 
             if (result.Succeeded)
@@ -51,10 +51,11 @@ namespace SecureProject.Controllers
                     var tokenDescriptor = new SecurityTokenDescriptor
                     {
                         Subject = new ClaimsIdentity(new[]
-                        { 
+                        {
                             new Claim(ClaimTypes.NameIdentifier, user.Id),
                             new Claim(ClaimTypes.Name, user.Email),
-                            new Claim(ClaimTypes.Email, user.Email) 
+                            new Claim(ClaimTypes.Email, user.Email),
+                            new Claim("isadmin", user.IsAdmin.ToString())
                         }),
                         Expires = DateTime.UtcNow.AddDays(7),
                         SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature),
@@ -67,6 +68,30 @@ namespace SecureProject.Controllers
                 { }
             }
             return Unauthorized();
+        }
+        [HttpGet("userList")]
+        public async Task<IActionResult> GetUserList()
+        {
+            var user = _userManager.Users.ToList();
+            return Ok(user);
+        }
+
+        [HttpGet("grantadmin")]
+        public async Task<IActionResult> grantadmin(string id)
+        {
+            var user = await _userManager.FindByIdAsync(id);
+            user.IsAdmin = true;
+            await _userManager.UpdateAsync(user);
+            return Ok(true);
+        }
+
+        [HttpGet("revokeAdmin")]
+        public async Task<IActionResult> revokeAdmin(string id)
+        {
+            var user = await _userManager.FindByIdAsync(id);
+            user.IsAdmin = false;
+            await _userManager.UpdateAsync(user);
+            return Ok(true);
         }
     }
 }

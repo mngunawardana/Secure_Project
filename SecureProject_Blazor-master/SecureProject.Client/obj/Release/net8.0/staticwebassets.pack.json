@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\obj\\Release\\net8.0\\scopedcss\\bundle\\SecureProject.Client.styles.css",
+      "PackagePath": "staticwebassets\\SecureProject.Client.styles.css"
+    },
+    {
+      "Id": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\wwwroot\\img\\secure-project.svg",
+      "PackagePath": "staticwebassets\\img\\secure-project.svg"
+    },
+    {
+      "Id": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.SecureProject.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.SecureProject.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.SecureProject.Client.props",
+      "PackagePath": "build\\SecureProject.Client.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SecureProject.Client.props",
+      "PackagePath": "buildMultiTargeting\\SecureProject.Client.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.SecureProject.Client.props",
+      "PackagePath": "buildTransitive\\SecureProject.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

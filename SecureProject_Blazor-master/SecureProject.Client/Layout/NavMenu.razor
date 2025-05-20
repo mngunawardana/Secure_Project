@@ -1,6 +1,6 @@
 ﻿<div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href=""><img src="/img/secure-project.svg" style="max-width:200px;" /></a>
+        <a class="navbar-brand" href=""><img src="/img/secure-project.svg" style="width:200px;" /></a>
         <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -14,23 +14,30 @@
                 <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
             </NavLink>
         </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="products">
-                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Products
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="User">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> User Management
-            </NavLink>
-        </div>
+        @if (isAdmin)
+        {
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="products">
+                    <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Products
+                </NavLink>
+            </div>
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="User">
+                    <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> User Management
+                </NavLink>
+            </div>
+        }
     </nav>
 </div>
 
 @code {
+    [CascadingParameter] public bool isAdmin { get; set; }
+    [Inject] IJSRuntime JSRuntime { get; set; }
+
     private bool collapseNavMenu = true;
 
     private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
 
     private void ToggleNavMenu()
     {

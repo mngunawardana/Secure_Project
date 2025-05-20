@@ -50,17 +50,7 @@ namespace SecureProject.Client.Pages.Product
 
             if (IsEdit)
             {
-                //if (feature.Id > 0 && product.ProductFeatures.Any(c => c.Id == feature.Id))
-                //{
-                //    var featureDb = product.ProductFeatures.First(c => c.Id == feature.Id);
-                //    featureDb.Name = feature.Name;
-                //    featureDb.Value = feature.Value;
-                //}
-                //else
-                //{
-                //    feature.ProductId = product.Id;
-                //    product.ProductFeatures.Add(feature);
-                //}
+            
                 var productDb = new SecureProject.Shared.Product
                 {
                     Id = product.Id,
@@ -71,7 +61,6 @@ namespace SecureProject.Client.Pages.Product
                     VendorLogo = product.VendorLogo
                 };
                 await Http.PutAsJsonAsync($"api/products/{product.Id}", productDb);
-                //Snackbar.Add("Product successfully updeted. Please add features", Severity.Success);
                 ToastService.Notify(new(ToastType.Success, $"Product successfullyc updeted. Please add features"));
             }
             else
@@ -97,7 +86,7 @@ namespace SecureProject.Client.Pages.Product
                 }
                 else
                 {
-                    //ToastService.Notify(new(ToastType.Success, $"Failed to create product"));
+                    
                     ToastService.Notify(new(ToastType.Danger, $"Product successfully updeted. Please add features"));
 
                 }
@@ -132,7 +121,6 @@ namespace SecureProject.Client.Pages.Product
                 await Http.PostAsJsonAsync("api/productFeature", feature);
                 showAddFeature = false;
 
-                //Snackbar.Add("Feature successfully added", Severity.Success);
                 ToastService.Notify(new(ToastType.Success, $"Product successfully added. Please add features"));
 
             }

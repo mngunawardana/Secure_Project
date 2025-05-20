@@ -193,7 +193,11 @@ D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Bla
 D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.pdb
 D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\SecureProject.genruntimeconfig.cache
 D:\3rd Year , First Sem and second\Individual Project\new repo\SecureProject_Blazor\SecureProject\obj\Debug\net8.0\ref\SecureProject.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Client.staticwebassets.runtime.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Client.staticwebassets.endpoints.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\appsettings-bak.json
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\appsettings.Development.json
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\appsettings.json
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
@@ -205,9 +209,6 @@ D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Pro
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
-D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Client.staticwebassets.runtime.json
-D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Client.staticwebassets.endpoints.json
-D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\appsettings.json
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.staticwebassets.runtime.json
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.staticwebassets.endpoints.json
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.exe
@@ -219,6 +220,22 @@ D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Pro
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Azure.Identity.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\BlazorBootstrap.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Blazored.LocalStorage.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.Api.Gax.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.Apis.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.Cloud.AIPlatform.V1.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.Cloud.Iam.V1.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.Cloud.Location.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.LongRunning.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Google.Protobuf.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\GenerativeAI.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Grpc.Auth.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Grpc.Net.Common.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Humanizer.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
@@ -262,6 +279,7 @@ D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Pro
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -277,6 +295,7 @@ D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Pro
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Mono.TextTemplating.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\MudBlazor.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -288,12 +307,17 @@ D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Pro
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Composition.Runtime.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Drawing.Common.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Management.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Memory.Data.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Runtime.Caching.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Text.Json.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\System.Windows.Extensions.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -356,8 +380,10 @@ D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Pro
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Client.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject\bin\Debug\net8.0\SecureProject.Shared.dll

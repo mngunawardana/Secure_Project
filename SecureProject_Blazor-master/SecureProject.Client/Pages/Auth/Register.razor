@@ -1,28 +1,38 @@
 ﻿@page "/register"
+@using Microsoft.AspNetCore.Identity
 @using SecureProject.Shared.DTO
 @inject HttpClient Http
 @inject NavigationManager Navigation
 @layout LoginLayout;
 
-<h3>Register</h3>
-
-@if (!string.IsNullOrEmpty(Message))
-{
-    <div class="alert alert-danger">@Message</div>
-}
 
 
 <div class="card shadow-lg border-0 rounded-lg mt-3">
     <div class="card-header">
-        <h3 class="text-center font-weight-light my-4">Login</h3>
+        <h3 class="text-center font-weight-light my-4">Register</h3>
     </div>
     <div class="card-body">
-        <StatusMessage Message="@Message" />
+        @if (!string.IsNullOrEmpty(Message))
+        {
+            <div class="alert alert-danger" @key="Message" @onclick="() => Message = null">
+                @((MarkupString)Message)
+            </div>
+        }
         <EditForm Model="RegisterModel" method="post" OnValidSubmit="HandleRegister">
             <DataAnnotationsValidator />
             <ValidationSummary class="text-danger" role="alert" />
             <div class="mb-3">
-                <label>Email</label>
+                <label>First Name</label>
+                <InputText class="form-control" @bind-Value="RegisterModel.FirstName" />
+                <ValidationMessage For="@(() => RegisterModel.FirstName)" />
+            </div>
+            <div class="mb-3">
+                <label>Last Name</label>
+                <InputText class="form-control" @bind-Value="RegisterModel.LastName" />
+                <ValidationMessage For="@(() => RegisterModel.LastName)" />
+            </div>
+            <div class="mb-3">
+                <label>Email (User name)</label>
                 <InputText class="form-control" @bind-Value="RegisterModel.Email" />
                 <ValidationMessage For="@(() => RegisterModel.Email)" />
             </div>
@@ -35,6 +45,11 @@
                 <label>Confirm Password</label>
                 <InputText type="password" class="form-control" @bind-Value="RegisterModel.ConfirmPassword" />
                 <ValidationMessage For="@(() => RegisterModel.ConfirmPassword)" />
+            </div>
+            <div class="mb-3">
+                <label>Phone Number</label>
+                <InputText class="form-control" @bind-Value="RegisterModel.PhoneNumber" />
+                <ValidationMessage For="@(() => RegisterModel.PhoneNumber)" />
             </div>
             <button type="submit" class="btn btn-success">Register</button>
         </EditForm>
@@ -63,9 +78,21 @@
         }
         else
         {
-            Message = "Registration failed. Try again.";
+            var errorContent = await response.Content.ReadFromJsonAsync<IEnumerable<IdentityError>>();
+
+            if (errorContent != null)
+            {
+                foreach (var item in errorContent)
+                {
+                    Message += item.Code + " - " + item.Description+"<br>";
+                }
+            }
+            else
+            {
+                Message = "Registration failed. Please try again.";
+            }
         }
     }
 
-  
+
 }
