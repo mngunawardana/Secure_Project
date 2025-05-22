@@ -29,8 +29,8 @@ namespace SecureProject.Client.Service
 
             string prompt = $"Given the following user requirement: '{userRequirement}'. " +
                             $"And the following list of products:\n{productDetails}\n\n" +
-                            "Create a proper security posture according to the user requirments , which includes one firewall,one Antivirus/Anti-malware software, one Privilege Access Management (PAM), one Data Loss Prevention (DLP), one Web Application Firewall (WAF), one SIEM (Security Information and Event Management) \n\n Please list the IDs of the most suitable products names and briefly explain why?\n\n" + // change this linessss
-                            "ID should replace with product Name (without product ID).\n\n Return selected product ID as array (eg: {1,3,4}).";
+                            "Create a proper security posture according to the user requirments , which includes one firewall,one Antivirus/Anti-malware software, one Privilege Access Management (PAM), one Data Loss Prevention (DLP), one Web Application Firewall (WAF), one SIEM (Security Information and Event Management) \n\n Please list the IDs of the most suitable products names and briefly explain why?\n\n" +
+                            "ID should replace with product Name (without product ID).\n\n Return selected product ID as array (eg: {1,3,4}).";
 
             var response = await _model.GenerateContentAsync(prompt);
             var responseText = response.Candidates.FirstOrDefault()?.Content?.Parts.FirstOrDefault()?.Text;
@@ -57,15 +57,37 @@ namespace SecureProject.Client.Service
                             responseText = responseText.Replace($@":**", "- ");
                         }
                     }
+
+
                 }
                 try
                 {
-                    responseText = responseText.Split("{")[0].Replace("`","");
+                    responseText = responseText.Split("{")[0].Replace("`", "").Replace("Selected Product IDs-", " ");
                 }
                 catch { }
+
+                // Regex pattern to match **<product name>*
+                string pattern = @"\*\*(.*?)\*";
+
+                var matches = Regex.Matches(responseText, pattern);
+
+                foreach (Match match in matches)
+                {
+                    string product = match.Groups[1].Value.Trim();
+
+                    if (!recomondedProducts.Any(c => c.Name.Contains(product)))
+                    {
+                        var productObj = _products.FirstOrDefault(p => p.Name.Contains(product));
+                        if (productObj != null)
+                        {
+                            recomondedProducts.Add(productObj);
+                        }
+                    }
+                }
+
                 RecommendationDTO returnObj = new RecommendationDTO()
                 {
-                    RecommendedReply = responseText,
+                    RecommendedReply = responseText.Replace("Selected Product IDs-", " ").Replace("** * **", " ").Replace("*", " "),
                     RecommendedProducts = recomondedProducts
                 };
                 return returnObj;

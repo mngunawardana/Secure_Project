@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f51a1daa18d85dd2b157e986f6f623983394df1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c1677f476420ffbf5ab4cc75296b8a043b99340")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
