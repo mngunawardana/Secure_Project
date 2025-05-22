@@ -71,6 +71,8 @@ namespace SecureProject.Client.Pages.Product
                     Name = product.Name,
                     Description = product.Description,
                     Price = product.Price,
+                    VendorName = product.VendorName,
+                    VendorLogo = product.VendorLogo
                 };
 
                 //await Http.PostAsJsonAsync("api/products", productDb);
@@ -80,7 +82,7 @@ namespace SecureProject.Client.Pages.Product
                 {
                     var createdProduct = await response.Content.ReadFromJsonAsync<Shared.Product>();
                    product.Id= createdProduct?.Id ?? 0;
-
+                    ProductId = product.Id;
                     ToastService.Notify(new(ToastType.Success, $"Product successfully updeted. Please add features"));
 
                 }
@@ -124,7 +126,7 @@ namespace SecureProject.Client.Pages.Product
                 ToastService.Notify(new(ToastType.Success, $"Product successfully added. Please add features"));
 
             }
-            product = await Http.GetFromJsonAsync<SecureProject.Shared.Product>($"api/products/{ProductId}") ?? new();
+            product = await Http.GetFromJsonAsync<SecureProject.Shared.Product>($"api/products/{product.Id}") ?? new();
 
             isPageLoading = false;
 

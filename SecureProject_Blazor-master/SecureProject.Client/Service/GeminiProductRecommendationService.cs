@@ -29,7 +29,7 @@ namespace SecureProject.Client.Service
 
             string prompt = $"Given the following user requirement: '{userRequirement}'. " +
                             $"And the following list of products:\n{productDetails}\n\n" +
-                            "Which product(s) best fulfill the user's requirement?\n\n Please list the IDs of the most suitable products names and briefly explain why?\n\n"+ // change this linessss
+                            "Create a proper security posture according to the user requirments , which includes one firewall,one Antivirus/Anti-malware software, one Privilege Access Management (PAM), one Data Loss Prevention (DLP), one Web Application Firewall (WAF), one SIEM (Security Information and Event Management) \n\n Please list the IDs of the most suitable products names and briefly explain why?\n\n" + // change this linessss
                             "ID should replace with product Name (without product ID).\n\n Return selected product ID as array (eg: {1,3,4}).";
 
             var response = await _model.GenerateContentAsync(prompt);

@@ -18,8 +18,12 @@ namespace SecureProject.B1.Repository
 
         public async Task AddProductFeatureAsync(ProductFeature product)
         {
-            await _context.Features.AddAsync(product);
-            await _context.SaveChangesAsync();
+            try
+            {
+                await _context.Features.AddAsync(product);
+                await _context.SaveChangesAsync();
+            }
+            catch (Exception ex) { }
         }
 
         public async Task<bool> UpdateProductFeatureAsync(ProductFeature product)

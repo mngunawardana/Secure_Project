@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureProject.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f94ac9ab7d59d0f992db8801b245dee3d842d3c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f51a1daa18d85dd2b157e986f6f623983394df1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureProject.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureProject.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

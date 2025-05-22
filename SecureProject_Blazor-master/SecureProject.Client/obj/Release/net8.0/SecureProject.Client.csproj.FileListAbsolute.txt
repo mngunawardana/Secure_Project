@@ -1263,8 +1263,8 @@ D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Pro
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\d6066d46vk-tptq2av103.gz
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\n7gavyqk9s-lfu7j35m59.gz
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\m9xqe32u0l-oyz0vx2fzb.gz
-D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\x3ytrlt1fg-81t58ipp72.gz
-D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\xbwlgp6d84-jegun9e2xe.gz
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\x3ytrlt1fg-jaw092v7nf.gz
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\xbwlgp6d84-q6wdqb5od0.gz
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\staticwebassets.build.json
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\staticwebassets.development.json
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\staticwebassets.build.endpoints.json
@@ -1280,6 +1280,6 @@ D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Pro
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\refint\SecureProject.Client.dll
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\SecureProject.Client.pdb
 D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\ref\SecureProject.Client.dll
-D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\p0sazthorh-gypvj9ogcv.gz
-D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\fnqhwpp95c-dzduntg0rj.gz
-D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\m4qqqk5e30-93w0utxz84.gz
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\p0sazthorh-l2o0tlplu6.gz
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\fnqhwpp95c-e32xbqkwof.gz
+D:\3rd Year , First Sem and second\Individual Project\New repo public\Secure_Project\SecureProject_Blazor-master\SecureProject.Client\obj\Release\net8.0\compressed\m4qqqk5e30-7n6gupwkvs.gz

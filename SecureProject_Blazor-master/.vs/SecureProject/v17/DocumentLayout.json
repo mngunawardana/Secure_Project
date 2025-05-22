@@ -3,44 +3,40 @@
   "WorkspaceRootPath": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject.client\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|solutionrelative:secureproject.client\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject\\repository\\productfeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|solutionrelative:secureproject\\repository\\productfeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|solutionrelative:secureproject.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject\\service\\productfeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|solutionrelative:secureproject\\service\\productfeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject.client\\pages\\product\\productform.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|solutionrelative:secureproject.client\\pages\\product\\productform.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject.client\\service\\geminiproductrecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|solutionrelative:secureproject.client\\service\\geminiproductrecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|solutionrelative:secureproject\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject.client\\service\\productrecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|solutionrelative:secureproject.client\\service\\productrecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|solutionrelative:secureproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject\\service\\interface\\iproductfeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|solutionrelative:secureproject\\service\\interface\\iproductfeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject.client\\pages\\product\\productform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|solutionrelative:secureproject.client\\pages\\product\\productform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject.client\\pages\\product\\productlist.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|solutionrelative:secureproject.client\\pages\\product\\productlist.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|solutionrelative:secureproject\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject.client\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|solutionrelative:secureproject.client\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject\\service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|solutionrelative:secureproject\\service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject.client\\pages\\auth\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|solutionrelative:secureproject.client\\pages\\auth\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject.client\\pages\\product\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F7F4C7C-012A-4429-A7A1-D3A070E863B7}|SecureProject.Client\\SecureProject.Client.csproj|solutionrelative:secureproject.client\\pages\\product\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{698B8323-1F66-41E0-8DF9-0ECCADC18854}|SecureProject\\SecureProject.csproj|d:\\3rd year , first sem and second\\individual project\\new repo public\\secure_project\\secureproject_blazor-master\\secureproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,19 +50,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductRecommendationService.cs",
-              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Service\\ProductRecommendationService.cs",
-              "RelativeDocumentMoniker": "SecureProject.Client\\Service\\ProductRecommendationService.cs",
-              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Service\\ProductRecommendationService.cs",
-              "RelativeToolTip": "SecureProject.Client\\Service\\ProductRecommendationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductFeatureService.cs",
+              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Service\\ProductFeatureService.cs",
+              "RelativeDocumentMoniker": "SecureProject\\Service\\ProductFeatureService.cs",
+              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Service\\ProductFeatureService.cs",
+              "RelativeToolTip": "SecureProject\\Service\\ProductFeatureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:35:37.428Z",
+              "WhenOpened": "2025-05-22T11:14:28.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductForm.razor",
+              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Product\\ProductForm.razor",
+              "RelativeDocumentMoniker": "SecureProject.Client\\Pages\\Product\\ProductForm.razor",
+              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Product\\ProductForm.razor",
+              "RelativeToolTip": "SecureProject.Client\\Pages\\Product\\ProductForm.razor",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T11:07:58.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SecureProject\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "SecureProject\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:01:57.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Service\\Interface\\IProductService.cs",
+              "RelativeDocumentMoniker": "SecureProject\\Service\\Interface\\IProductService.cs",
+              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Service\\Interface\\IProductService.cs",
+              "RelativeToolTip": "SecureProject\\Service\\Interface\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:01:13.347Z",
               "EditorCaption": ""
             },
             {
@@ -77,124 +112,72 @@
               "RelativeDocumentMoniker": "SecureProject.Client\\Pages\\Product\\ProductForm.razor.cs",
               "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Product\\ProductForm.razor.cs",
               "RelativeToolTip": "SecureProject.Client\\Pages\\Product\\ProductForm.razor.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAuwDMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswHoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:33:01.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductForm.razor",
-              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Product\\ProductForm.razor",
-              "RelativeDocumentMoniker": "SecureProject.Client\\Pages\\Product\\ProductForm.razor",
-              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Product\\ProductForm.razor",
-              "RelativeToolTip": "SecureProject.Client\\Pages\\Product\\ProductForm.razor",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T18:32:20.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "SecureProject\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "SecureProject\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:31:53.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductList.razor.cs",
-              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Product\\ProductList.razor.cs",
-              "RelativeDocumentMoniker": "SecureProject.Client\\Pages\\Product\\ProductList.razor.cs",
-              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Product\\ProductList.razor.cs",
-              "RelativeToolTip": "SecureProject.Client\\Pages\\Product\\ProductList.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:31:36.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Register.razor",
-              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Auth\\Register.razor",
-              "RelativeDocumentMoniker": "SecureProject.Client\\Pages\\Auth\\Register.razor",
-              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Auth\\Register.razor",
-              "RelativeToolTip": "SecureProject.Client\\Pages\\Auth\\Register.razor",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T18:31:06.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "SecureProject.Client\\Pages\\Home.razor",
-              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Home.razor",
-              "RelativeToolTip": "SecureProject.Client\\Pages\\Home.razor",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T17:40:53.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GeminiProductRecommendationService.cs",
-              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Service\\GeminiProductRecommendationService.cs",
-              "RelativeDocumentMoniker": "SecureProject.Client\\Service\\GeminiProductRecommendationService.cs",
-              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Service\\GeminiProductRecommendationService.cs",
-              "RelativeToolTip": "SecureProject.Client\\Service\\GeminiProductRecommendationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T17:41:40.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.razor",
-              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Auth\\Login.razor",
-              "RelativeDocumentMoniker": "SecureProject.Client\\Pages\\Auth\\Login.razor",
-              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Auth\\Login.razor",
-              "RelativeToolTip": "SecureProject.Client\\Pages\\Auth\\Login.razor",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T18:29:50.458Z",
+              "WhenOpened": "2025-05-22T10:57:26.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.razor.cs",
-              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Home.razor.cs",
-              "RelativeDocumentMoniker": "SecureProject.Client\\Pages\\Home.razor.cs",
-              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Home.razor.cs",
-              "RelativeToolTip": "SecureProject.Client\\Pages\\Home.razor.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAA/AAAAAAAAAA==",
+              "Title": "ProductFeatureRepository.cs",
+              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Repository\\ProductFeatureRepository.cs",
+              "RelativeDocumentMoniker": "SecureProject\\Repository\\ProductFeatureRepository.cs",
+              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Repository\\ProductFeatureRepository.cs",
+              "RelativeToolTip": "SecureProject\\Repository\\ProductFeatureRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T17:40:57.789Z",
+              "WhenOpened": "2025-05-22T11:14:53.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "IProductFeatureService.cs",
+              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Service\\Interface\\IProductFeatureService.cs",
+              "RelativeDocumentMoniker": "SecureProject\\Service\\Interface\\IProductFeatureService.cs",
+              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Service\\Interface\\IProductFeatureService.cs",
+              "RelativeToolTip": "SecureProject\\Service\\Interface\\IProductFeatureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:14:19.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "SecureProject\\Service\\ProductService.cs",
+              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Service\\ProductService.cs",
+              "RelativeToolTip": "SecureProject\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:00:57.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductList.razor",
+              "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Product\\ProductList.razor",
+              "RelativeDocumentMoniker": "SecureProject.Client\\Pages\\Product\\ProductList.razor",
+              "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject.Client\\Pages\\Product\\ProductList.razor",
+              "RelativeToolTip": "SecureProject.Client\\Pages\\Product\\ProductList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T10:52:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Program.cs",
               "RelativeDocumentMoniker": "SecureProject\\Program.cs",
               "ToolTip": "D:\\3rd Year , First Sem and second\\Individual Project\\New repo public\\Secure_Project\\SecureProject_Blazor-master\\SecureProject\\Program.cs",
               "RelativeToolTip": "SecureProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwCUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T17:40:57.111Z",
               "EditorCaption": ""
